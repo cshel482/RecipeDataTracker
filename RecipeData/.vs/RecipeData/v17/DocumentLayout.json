@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\recipe\\RecipeDataTracker\\RecipeData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\databaseconnectioncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:databaseconnectioncs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\models\\cocktailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:models\\cocktailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\models\\mealmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:models\\mealmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:models\\recipemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|c:\\recipe\\recipedatatracker\\recipedata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D677D6AE-6914-4DAB-B897-BC2733979411}|RecipeData.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:55:42.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:54:41.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseConnectioncs.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\DatabaseConnectioncs.cs",
+              "RelativeDocumentMoniker": "DatabaseConnectioncs.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\DatabaseConnectioncs.cs",
+              "RelativeToolTip": "DatabaseConnectioncs.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:34:37.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T17:10:49.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAcwD8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T20:43:46.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:42:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CocktailModel.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\CocktailModel.cs",
+              "RelativeDocumentMoniker": "Models\\CocktailModel.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\CocktailModel.cs",
+              "RelativeToolTip": "Models\\CocktailModel.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:53:10.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBServices.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\DBServices.cs",
+              "RelativeDocumentMoniker": "DBServices.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\DBServices.cs",
+              "RelativeToolTip": "DBServices.cs",
+              "ViewState": "AQIAAHkBAAAAAAAAAAAmwBYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:50:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MealModel.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\MealModel.cs",
+              "RelativeDocumentMoniker": "Models\\MealModel.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\MealModel.cs",
+              "RelativeToolTip": "Models\\MealModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:53:02.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T17:41:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T02:52:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:27:06.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecipeModel.cs",
+              "DocumentMoniker": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\RecipeModel.cs",
+              "RelativeDocumentMoniker": "Models\\RecipeModel.cs",
+              "ToolTip": "C:\\recipe\\RecipeDataTracker\\RecipeData\\Models\\RecipeModel.cs",
+              "RelativeToolTip": "Models\\RecipeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T18:35:13.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
